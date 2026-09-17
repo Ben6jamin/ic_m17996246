@@ -1,0 +1,1 @@
+Cryptography protects messages by transforming readable information into coded text that unauthorized people cannot understand easily
