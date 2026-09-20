@@ -1,1 +1,12 @@
+filename: m14257034_khalil.txt    recovered key string: seven
+filename: m14616316_Loni.txt    recovered key string: sunrise
+filename: m14971350_Konare.txt    recovered key string: thatswhyheisthegoat
+filename: m14999097_shapiro.txt    recovered key string: idontknow
+filename: m1518061_alrefai.txt    recovered key string: bearcat
+filename: m15528369_davis.txt    recovered key string: cincinnati
+filename: m16633275_Lee.txt    recovered key string: rabbitisgood
+filename: m16658755_andrew.txt    recovered key string: yourkey
+filename: m17369007_cramer.txt    recovered key string: beemovie
 filename: m17996246_ishimwe.txt    recovered key string: bearcats
+filename: m18094092_cho.txt    recovered key string: chosecurity
+‹
